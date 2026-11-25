@@ -1,0 +1,14 @@
+// G HUB Lua 執行時提供的全域 API，列出以避免 Lua 診斷誤報未定義名稱。
+{
+  "Lua.diagnostics.globals": [
+    "OnEvent",
+    "OutputLogMessage",
+    "GetRunningTime",
+    "GetMousePosition",
+    "Sleep",
+    "PressKey",
+    "ReleaseKey",
+    "PressAndReleaseKey",
+    "PlayMacro"
+  ]
+}
