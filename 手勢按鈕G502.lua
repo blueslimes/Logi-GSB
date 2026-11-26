@@ -12,7 +12,7 @@
     local GShiftButton = 6  -- Logitech 控制面板中指定給 G Shift 的按鈕 
     local smartButtonDelta = 350  -- 判定為長按的時間(ms)
     local smartButtonDistanceMin = 1000  -- 判定為移動手勢的最短距離
-    local smartButtonDistanceMax = 20000  -- 移動手勢的最長距離
+    local smartButtonDistanceMax = 60000  -- 移動手勢的最長距離
     
     local GShiftActive = false  -- 記錄 G-Shift 是否正按住
     local GSmartButtonActive0 = false -- 記錄 G Smart Button 是否正按住

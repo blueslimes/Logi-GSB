@@ -1,10 +1,11 @@
-# G HUB 滑鼠手勢按鍵
+# G HUB 滑鼠手勢按鍵 (G HUB Mouse Gesture Buttons)
 
+[English](README.en.md)
 
 
 ## 說明
 
-本專案用來在 Logitech G 系列裝置上，透過 [G HUB](https://www.logitechg.com/software/ghub) 的 Lua 腳本實現類似 Logi Options+ 手勢按鈕的功能。將指定的 G 按鍵作為手勢按鍵。按住按鍵並移動滑鼠，放開時依按住時間、移動距離與方向執行對應動作。
+本專案用來在 Logi G 系列裝置上，透過 [G HUB](https://www.logitechg.com/software/ghub) 的 Lua 腳本實現類似 Logi Options+ 手勢按鈕的功能。將指定的 G 按鍵作為手勢按鍵。按住按鍵並移動滑鼠，放開時依按住時間、移動距離與方向執行對應動作。
 
 預設使用場景為 Windows 搭配 Logitech G502；手勢按鍵編號以 G HUB 中的按鍵設定為準。
 
