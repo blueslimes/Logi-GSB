@@ -17,6 +17,16 @@
 - [G-series Lua API 說明](https://douile.com/logitech-toggle-keys/APIDocs.pdf)
 
 
+## 使用說明
+在G HUB 設定檔(在頂部選擇分頁) -> 桌面(或其他應用程式) ->  建立 Lua 設定檔 -> 建立新的LUA指令檔
+![alt text](img/help0.png)
+![alt text](img/help1.png)
+
+複製 `手勢按鈕G502.lua` 的內容並用 `ctrl+s` 存檔
+
+![alt text](img/help2.png)
+顯示 LOADED 即可使用
+
 ## 按鍵設定
 
 需要更換按鍵時，修改 Lua 檔案開頭的變數：

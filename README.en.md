@@ -15,6 +15,17 @@ Both gesture buttons share a single state, so the script is designed to process 
 - [Windows keyboard shortcuts](https://support.microsoft.com/accessibility/windows/keyboard-shortcuts-in-windows)
 - [G-series Lua API documentation](https://douile.com/logitech-toggle-keys/APIDocs.pdf)
 
+## Usage
+
+In G HUB, go to Profiles (use the tab at the top) -> Desktop (or another application) -> Create a new Lua script -> Create a new Lua script
+![alt text](img/help0.png)
+![alt text](img/help1.png)
+
+Copy the contents of `手勢按鈕G502.lua` and save them with `Ctrl+S`.
+
+![alt text](img/help2.png)
+Once `LOADED` is displayed, the script is ready to use.
+
 ## Button Configuration
 
 To assign different buttons, edit the variables at the beginning of the Lua file:
